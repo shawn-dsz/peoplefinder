@@ -1,0 +1,6 @@
+D:\Projects\peoplefinder\PeopleFinder\PeopleFinder\bin\PeopleFinder.dll.config
+D:\Projects\peoplefinder\PeopleFinder\PeopleFinder\bin\PeopleFinder.dll
+D:\Projects\peoplefinder\PeopleFinder\PeopleFinder\bin\PeopleFinder.pdb
+D:\Projects\peoplefinder\PeopleFinder\PeopleFinder\obj\Debug\PeopleFinder.csprojResolveAssemblyReference.cache
+D:\Projects\peoplefinder\PeopleFinder\PeopleFinder\obj\Debug\PeopleFinder.dll
+D:\Projects\peoplefinder\PeopleFinder\PeopleFinder\obj\Debug\PeopleFinder.pdb
